@@ -2,7 +2,7 @@
 title: "Terraform Infrastructure as Code: State Management & Production Workflows"
 description: "Best practices for modular Terraform code, remote S3/GCS state backends with distributed locking, workspace management, and drift detection."
 date: "2026-09-05"
-author: "Cloud Study Hub"
+author: "Akhil"
 category: "Terraform"
 tags: ["Terraform", "IaC", "DevOps", "Automation", "AWS"]
 level: "Intermediate"

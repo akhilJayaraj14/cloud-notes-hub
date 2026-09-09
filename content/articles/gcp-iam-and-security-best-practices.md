@@ -2,7 +2,7 @@
 title: "Google Cloud Platform (GCP): IAM Resource Hierarchy & Security Essentials"
 description: "Mastering GCP Organization, Folders, Projects, Custom IAM Roles, Service Account Keyless Workload Identity, and VPC Service Controls."
 date: "2026-09-03"
-author: "Cloud Study Hub"
+author: "Akhil"
 category: "GCP"
 tags: ["GCP", "Security", "IAM", "GoogleCloud", "CloudEngineering"]
 level: "Beginner"

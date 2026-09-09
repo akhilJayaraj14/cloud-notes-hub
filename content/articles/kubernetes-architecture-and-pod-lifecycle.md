@@ -2,7 +2,7 @@
 title: "Kubernetes Architecture & Pod Lifecycle Deep Dive"
 description: "Mastering Kubernetes Control Plane components, kubelet, etcd consensus, Pod lifecycle hooks, and zero-downtime rolling deployments."
 date: "2026-09-07"
-author: "Cloud Study Hub"
+author: "Akhil"
 category: "Kubernetes"
 tags: ["Kubernetes", "DevOps", "Containers", "K8s", "CKA"]
 level: "Advanced"

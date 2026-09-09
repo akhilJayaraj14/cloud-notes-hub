@@ -2,7 +2,7 @@
 title: "AWS Solutions Architect: Core Compute, Storage & Database Architecture"
 description: "A comprehensive cheat sheet and reference guide covering EC2 instances, S3 storage tiers, RDS vs DynamoDB, and High Availability VPC design."
 date: "2026-09-08"
-author: "Cloud Study Hub"
+author: "Akhil"
 category: "AWS"
 tags: ["AWS", "Architecture", "EC2", "S3", "DynamoDB", "VPC"]
 level: "Intermediate"

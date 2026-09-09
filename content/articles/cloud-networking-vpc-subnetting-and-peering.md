@@ -2,7 +2,7 @@
 title: "Cloud Networking: CIDR Subnetting, NAT Gateways & Transit VPC Peering"
 description: "Everything you need to know about IPv4 CIDR calculations, public/private route tables, AWS Transit Gateway, and cross-cloud VPC peering."
 date: "2026-09-01"
-author: "Cloud Study Hub"
+author: "Akhil"
 category: "Networking"
 tags: ["Networking", "VPC", "AWS", "GCP", "Routing", "Security"]
 level: "Advanced"
