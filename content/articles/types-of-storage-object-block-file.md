@@ -3,8 +3,8 @@ title: "Types of Storage: Object, Block and File — Explained from Scratch"
 description: "A beginner-friendly deep dive comparing Object Storage, Block Storage, and File Storage with real-life analogies, side-by-side trade-offs, and cloud architecture examples."
 date: "2026-09-09"
 author: "Akhil"
-category: "AWS"
-tags: ["Storage", "S3", "EBS", "EFS", "Architecture", "CloudFundamentals", "Beginner"]
+category: "Storage"
+tags: ["Storage", "ObjectStorage", "BlockStorage", "FileStorage", "S3", "EBS", "EFS", "Architecture", "Beginner"]
 level: "Beginner"
 featured: true
 ---

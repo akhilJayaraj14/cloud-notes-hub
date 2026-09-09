@@ -4,7 +4,7 @@ export interface ArticleMeta {
   description: string;
   date: string;
   author: string;
-  category: 'AWS' | 'GCP' | 'Azure' | 'Kubernetes' | 'DevOps' | 'Terraform' | 'Networking' | 'Security';
+  category: 'AWS' | 'GCP' | 'Azure' | 'Kubernetes' | 'DevOps' | 'Terraform' | 'Networking' | 'Security' | 'Storage';
   tags: string[];
   level: 'Beginner' | 'Intermediate' | 'Advanced';
   readingTime: string;

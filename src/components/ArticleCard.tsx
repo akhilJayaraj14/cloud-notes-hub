@@ -16,6 +16,7 @@ const categoryColors: Record<string, { bg: string; text: string; border: string 
   Terraform: { bg: 'bg-violet-500/10', text: 'text-violet-400', border: 'border-violet-500/20' },
   Networking: { bg: 'bg-cyan-500/10', text: 'text-cyan-400', border: 'border-cyan-500/20' },
   Security: { bg: 'bg-rose-500/10', text: 'text-rose-400', border: 'border-rose-500/20' },
+  Storage: { bg: 'bg-teal-500/10', text: 'text-teal-400', border: 'border-teal-500/20' },
 };
 
 const levelColors: Record<string, string> = {
